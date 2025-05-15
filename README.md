@@ -82,3 +82,6 @@ This is a fully responsive e-commerce web application developed using **HTML**, 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ecommerce-system.git
+### 📂 Running 
+1. Click here
+   https://multiactorecommerce-bc050.firebaseapp.com/
